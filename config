@@ -1,0 +1,52 @@
+[{
+	"name": "MAT 108",
+	"meetings": [{
+		"days": "135",
+		"time": "1410-1500",
+		"location": "Wellman Hall 212"
+	}, {
+		"days": "2",
+		"time": "1710-1800",
+		"location": "The Grove (Surge III) 1283"
+	}]
+}, {
+	"name": "UWP 104C",
+	"meetings": [{
+		"days": "1",
+		"time": "1810-2100",
+		"location": "Shields Library 90B"
+	}]
+}, {
+	"name": "ECS154A",
+	"meetings": [{
+		"days": "24",
+		"time": "1030-1150",
+		"location": "Giedt 1001"
+	}, {
+		"days": "5",
+		"time": "1710-1800",
+		"location": "Chemistry 166"
+	}]
+}, {
+	"name": "ECS122A",
+	"meetings": [{
+		"days": "24",
+		"time": "1510-1630",
+		"location": "Young Hall 198"
+	}, {
+		"days": "5",
+		"time": "0900-0950",
+		"location": "Olson Hall 118"
+	}]
+}, {
+	"name": "ECS150A",
+	"meetings": [{
+		"days": "135",
+		"time": "1210-1300",
+		"location": "Max Kleiber Hall 3"
+	}, {
+		"days": "3",
+		"time": "1710-1800",
+		"location": "Olson Hall 206"
+	}]
+}]

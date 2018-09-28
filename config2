@@ -1,0 +1,61 @@
+[{
+	"name": "项目管理",
+	"meetings": [{
+		"days": "1",
+		"time": "1330-1500",
+		"location": "宁313"
+	}]
+}, {
+	"name": "创业管理",
+	"meetings": [{
+		"days": "1",
+		"time": "1520-1650",
+		"location": "宁628"
+	}]
+}, {
+	"name": "成本与管理会计",
+	"meetings": [{
+		"days": "1",
+		"time": "1830-2050",
+		"location": "宁118"
+	}]
+}, {
+	"name": "形式与政策",
+	"meetings": [{
+		"days": "2",
+		"time": "1830-2000",
+		"location": "宁828"
+	}]
+}, {
+	"name": "金融英语",
+	"meetings": [{
+		"days": "3",
+		"time": "0800-0930",
+		"location": "博206"
+	}]
+}, {
+	"name": "Python与大数据分析",
+	"meetings": [{
+		"days": "4",
+		"time": "0950-1120",
+		"location": "知409"
+	}]
+}, {
+	"name": "商业伦理",
+	"meetings": [{
+		"days": "4",
+		"time": "1520-1650",
+		"location": "宁526"
+	}, {
+		"days": "5",
+		"time": "1520-1650",
+		"location": "知501"
+	}]
+}, {
+	"name": "企业财务报表分析",
+	"meetings": [{
+		"days": "5",
+		"time": "0800-0930",
+		"location": "宁313"
+	}]
+}]
